@@ -13,4 +13,4 @@ Props Practice, Internal State Practice, External State Practice
 * [External State Practice Pt1](https://codesandbox.io/s/28-starter-code-external-state-not-forked-3x2ce)
 * [External State Practice Pt2](https://codesandbox.io/s/28-starter-code-external-state-forked-owhrz)
 #### UML
-![](./assets/----.jpg)
+![](./assets/lab28UML.png)
